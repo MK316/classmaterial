@@ -1,0 +1,3 @@
+# phonetics data
+
++ Allophonic rules
