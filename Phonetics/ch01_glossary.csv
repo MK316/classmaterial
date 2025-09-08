@@ -33,7 +33,7 @@
 32,Dental,1,This refers to touching the tongue tip or blade to the upper front teeth; some speakers produce this with the tongue between the teeth.
 33,Alveolar,1,"This refers to touching the tongue tip or blade to the ridge just behind the upper teeth; try words like tie, die, and sigh."
 34,Retroflex,1,This refers to curling the tongue tip back toward the back of the alveolar ridge; some speakers do this in sounds at the start or end of words like rye or hour.
-35,Post alveolar or palato alveolar,2,This refers to placing the tongue blade just behind the alveolar ridge; a common example is the first sound in the word shoe.
+35,Postalveolar or post-alveolar or palato-alveolar or alveo-palatal,1,This refers to placing the tongue blade just behind the alveolar ridge; a common example is the first sound in the word shoe.
 36,Palatal,1,"This refers to raising the front of the tongue toward the hard palate, as in the first sound of you."
 37,Velar,1,"This refers to raising the back of the tongue toward the soft palate, as in the last sound of back."
 38,Stop or plosive,1,"This refers to a complete closure in the mouth with the soft palate raised, building pressure and releasing it in a burst, as in the first sound of pie, tie, or kye."
@@ -67,4 +67,5 @@
 68,Vowel targets,2,"This refers to the idea that vowels can be described by targets for tongue height, front back position, and lip rounding; the path between targets is continuous in real speech."
 69,Suprasegmentals,1,"This refers to features layered over sounds and syllables, especially stress and pitch, and also differences in length."
 70,Stress,1,"This refers to the relative prominence of a syllable, created by greater loudness, clearer segment features such as vowel height and aspiration, and wider pitch movement; in English it can distinguish a noun from a verb in pairs such as an insult and to insult."
+
 71,Intonation,1,This refers to changes in voice pitch linked to the rate of vibration of the vocal folds; these changes can occur independently of stress and can change a statement into a question.
