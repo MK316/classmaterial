@@ -1,0 +1,70 @@
+﻿ID,Term,Word count,Description
+1,Phonetics,1,"This refers to the study that describes speech, that is, how sounds are made, heard, and analyzed."
+2,Speech production,2,This refers to making speech sounds by moving the tongue and lips with airflow as the energy source.
+3,Respiratory system,2,This refers to the power source that pushes air out of the lungs to drive speech.
+4,Trachea,1,"This is an organ involved in speech production, and it refers to the airway that carries air upward from the lungs toward the structure that contains the vocal folds."
+5,Larynx,1,"This refers to the structure above the windpipe that houses the vocal folds, which can vibrate or stay apart."
+6,Vocal folds,2,This refers to the pair of small folds that either vibrate to make voicing or remain apart for sounds without voicing.
+7,Glottis,1,This refers to the space between the vocal folds whose configuration helps set up voiced and voiceless sounds.
+8,Voiced sounds,2,This refers to sounds made when the vocal folds vibrate; a useful contrast is the beginning of words that start with the sound of vee versus the sound of eff.
+9,Voiceless sounds,2,This refers to sounds made when the vocal folds are apart and do not vibrate; a useful contrast is the beginning of words that start with the sound of eff versus the sound of vee.
+10,Vocal tract,2,"This refers to the air passages above the larynx, including the mouth path and the nose path."
+11,Oral tract,2,This refers to the passage through the mouth and the pharynx that carries air when the soft palate is raised.
+12,Nasal tract,2,"This refers to the passage through the nose that carries air when the soft palate is lowered, as in humming sounds."
+13,Pharynx,1,This refers to the space between the region of the soft palate and the larynx; its back wall can serve as an upper contact surface.
+14,Hard palate,2,This refers to the bony front part of the roof of the mouth.
+15,velum,1,This refers to the soft muscular part at the back of the roof of the mouth that can lift to block the nose path or lower to open it. Another term of this is soft palate.
+16,Velic closure,2,This refers to raising the soft palate to seal the nose path so air exits only through the mouth.
+17,Uvula,1,This refers to the small hanging part at the lower end of the soft palate.
+18,Alveolar ridge,2,This refers to the small ridge just behind the upper front teeth that you can feel with your tongue tip.
+19,Articulators,1,"This refers to the parts that shape sounds, such as lips and tongue, which move toward the upper surfaces to make gestures for speech."
+20,Lower articulators,2,"This refers to the moving parts that form the lower surface, especially the lower lip and the tongue with regions like tip, blade, front, center, back, and root."
+21,Upper articulators,2,"This refers to the parts that form the upper surface, including the upper lip, upper teeth, the roof of the mouth, and the back wall of the pharynx."
+22,Mid sagittal view,2,This refers to a side view diagram that slices the vocal tract along the middle line to show key structures.
+23,Airstream process,2,"This speech production process refers to how air is moved to power speech, typically by the lungs pushing air out."
+24,Phonation process,2,"This speech production process refers to what the vocal folds are doing, such as vibrating for voicing or staying apart for no voicing."
+25,Oro-nasal process,2,"This speech production process refers to whether air exits through the mouth or through the nose, controlled by the soft palate."
+26,Articulatory process,2,This speech production process refers to how the tongue and lips move and make contact with upper surfaces to shape sounds.
+27,Labial,1,This refers to using the lips as the main contact area.
+28,Coronal,1,This refers to using the tongue tip or the tongue blade as the main contact area.
+29,Dorsal,1,This refers to using the back of the tongue as the main contact area.
+30,Bilabial,1,"This refers to using both lips, as in the first sound of the word pie or buy."
+31,Labiodental,1,"This refers to using the lower lip against the upper front teeth, as in the first sound of five or vie."
+32,Dental,1,This refers to touching the tongue tip or blade to the upper front teeth; some speakers produce this with the tongue between the teeth.
+33,Alveolar,1,"This refers to touching the tongue tip or blade to the ridge just behind the upper teeth; try words like tie, die, and sigh."
+34,Retroflex,1,This refers to curling the tongue tip back toward the back of the alveolar ridge; some speakers do this in sounds at the start or end of words like rye or hour.
+35,Post alveolar or palato alveolar,2,This refers to placing the tongue blade just behind the alveolar ridge; a common example is the first sound in the word shoe.
+36,Palatal,1,"This refers to raising the front of the tongue toward the hard palate, as in the first sound of you."
+37,Velar,1,"This refers to raising the back of the tongue toward the soft palate, as in the last sound of back."
+38,Stop or plosive,1,"This refers to a complete closure in the mouth with the soft palate raised, building pressure and releasing it in a burst, as in the first sound of pie, tie, or kye."
+39,Nasal,1,"This refers to a closure in the mouth while air flows through the nose because the soft palate is lowered, as in the first sound of my or nigh or the last sound of sang."
+40,Fricative,1,"This refers to a narrow passage that creates a steady hiss like noise, as in the first sound of sigh or the first sound of shoe."
+41,Sibilant,1,"This refers to a higher pitched subset of fricatives with a strong hiss, such as the sounds in sigh and shoe."
+42,Approximant,1,"This refers to a close approach of articulators without enough narrowing to make turbulence, as in the first sound of we or yacht."
+43,Laterality,1,"This property refers to a consonant manner where the center of the tongue makes contact so that central airflow is blocked and air escapes along one or both sides; in English, a clear example is the sound represented by the letter L in the word lie."
+44,Lateral,1,"This approximant refers to the side airflow manner, characterized by central contact with side release; in English, examples occur in words like lie and laugh."
+45,Trill,1,"This refers to rapid repeated contact, as in a rolled r in some varieties of Scottish English or in Spanish."
+46,Tap,1,"This refers to a single brief contact of the tongue tip, as often heard in the middle of the word pity in American English.This sound is also known as a flap."
+47,Affricate,1,"This refers to a stop that releases directly into a fricative at the same place of articulation, as in the first sound of church or judge."
+48,Glottal stop,2,"This refers to a brief closure at the vocal folds that often appears before a vowel at the start of a word in running speech; for example, the phrase flee east differs from the word fleeced by this feature."
+49,Voicing,1,This refers to whether the vocal folds vibrate or remain apart.
+50,Place of articulation,3,This refers to where in the mouth or throat the main contact or narrowing happens.
+51,Centrality,2,This refers to whether airflow is along the midline of the tongue or along the side or sides.
+53,Manner of articulation,3,"This refers to the type of constriction, such as stop, fricative, or approximant."
+54,Sound wave,2,This refers to rapid variations in air pressure produced by the speaker; these changes can be plotted over time.
+55,Waveform,1,This refers to a graph that shows how air pressure varies over time for a recorded utterance.
+56,Spectrum,1,This refers to the display that shows which frequencies are present and how strong they are in a short time slice of the sound.
+57,Spectrogram,1,"This refers to a display that stacks many short time spectra to show time across, frequency up and down, and loudness by shade; it mirrors how the ear analyzes sound and reveals articulatory signatures."
+59,Frequency,1,This refers to how many cycles occur in one second in a repeating pattern; it is the measurable counterpart of pitch.
+60,Amplitude,1,This refers to how large the pressure variations are; darker shading on a spectrogram indicates higher amplitude.
+61,Periodicity,1,"This refers to the presence of a regular repeating pattern in a waveform, which is often seen in vowels."
+62,Formant,1,This refers to a strong resonance band of a vowel that comes from the shape of the vocal tract; the second band is historically linked to a classic glass filling demonstration.
+63,First formant,2,"This refers to the lower resonance band of a vowel that moves opposite to tongue height, being lower for high tongue vowels and higher for low tongue vowels; it can be noticed in certain voice qualities."
+64,Second formant,2,This refers to the higher resonance band of a vowel that roughly tracks whether the tongue is more toward the front or the back; a classic demonstration describes how it changes as a glass fills.
+65,Vowel backneess,2,"This refers to whether the highest part of the tongue is toward the front, as in the vowel of heed, or toward the back, as in the vowels of father, good, and food."
+66,Vowel height,2,"This refers to how high the tongue body target is, such as high in food, mid in good, or low in father."
+67,Lip rounding,2,"This refers to whether the lips are rounded, which is common in many back vowels like those in good and food, versus unrounded as in heed."
+68,Vowel targets,2,"This refers to the idea that vowels can be described by targets for tongue height, front back position, and lip rounding; the path between targets is continuous in real speech."
+69,Suprasegmentals,1,"This refers to features layered over sounds and syllables, especially stress and pitch, and also differences in length."
+70,Stress,1,"This refers to the relative prominence of a syllable, created by greater loudness, clearer segment features such as vowel height and aspiration, and wider pitch movement; in English it can distinguish a noun from a verb in pairs such as an insult and to insult."
+71,Intonation,1,This refers to changes in voice pitch linked to the rate of vibration of the vocal folds; these changes can occur independently of stress and can change a statement into a question.
