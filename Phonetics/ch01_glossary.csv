@@ -1,7 +1,7 @@
 ﻿ID,Term,Word count,Description
 1,Phonetics,1,"This refers to the study that describes speech, that is, how sounds are made, heard, and analyzed."
 2,Speech production,2,This refers to making speech sounds by moving the tongue and lips with airflow as the energy source.
-3,Respiratory system,2,This refers to the power source that pushes air out of the lungs to drive speech.
+3,Respiratory,2,This system refers to the power source that pushes air out of the lungs to drive speech.
 4,Trachea,1,"This is an organ involved in speech production, and it refers to the airway that carries air upward from the lungs toward the structure that contains the vocal folds."
 5,Larynx,1,"This refers to the structure above the windpipe that houses the vocal folds, which can vibrate or stay apart."
 6,Vocal folds,2,This refers to the pair of small folds that either vibrate to make voicing or remain apart for sounds without voicing.
@@ -69,4 +69,5 @@
 70,Stress,1,"This refers to the relative prominence of a syllable, created by greater loudness, clearer segment features such as vowel height and aspiration, and wider pitch movement; in English it can distinguish a noun from a verb in pairs such as an insult and to insult."
 
 71,Intonation,1,This refers to changes in voice pitch linked to the rate of vibration of the vocal folds; these changes can occur independently of stress and can change a statement into a question.
+
 
