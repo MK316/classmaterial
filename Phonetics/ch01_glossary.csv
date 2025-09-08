@@ -36,7 +36,7 @@
 35,Postalveolar or post-alveolar or palato-alveolar or alveo-palatal,1,This refers to placing the tongue blade just behind the alveolar ridge; a common example is the first sound in the word shoe.
 36,Palatal,1,"This refers to raising the front of the tongue toward the hard palate, as in the first sound of you."
 37,Velar,1,"This refers to raising the back of the tongue toward the soft palate, as in the last sound of back."
-38,Stop or plosive,1,"This refers to a complete closure in the mouth with the soft palate raised, building pressure and releasing it in a burst, as in the first sound of pie, tie, or kye."
+38,plosive,1,"This refers to a complete closure in the mouth with the soft palate raised, building pressure and releasing it in a burst, as in the first sound of pie, tie, or kye. This is another term for stop sound."
 39,Nasal,1,"This refers to a closure in the mouth while air flows through the nose because the soft palate is lowered, as in the first sound of my or nigh or the last sound of sang."
 40,Fricative,1,"This refers to a narrow passage that creates a steady hiss like noise, as in the first sound of sigh or the first sound of shoe."
 41,Sibilant,1,"This refers to a higher pitched subset of fricatives with a strong hiss, such as the sounds in sigh and shoe."
@@ -69,3 +69,4 @@
 70,Stress,1,"This refers to the relative prominence of a syllable, created by greater loudness, clearer segment features such as vowel height and aspiration, and wider pitch movement; in English it can distinguish a noun from a verb in pairs such as an insult and to insult."
 
 71,Intonation,1,This refers to changes in voice pitch linked to the rate of vibration of the vocal folds; these changes can occur independently of stress and can change a statement into a question.
+
