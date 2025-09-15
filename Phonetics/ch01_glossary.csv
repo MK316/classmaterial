@@ -29,11 +29,11 @@
 28,Coronal,1,This refers to using the tongue tip or the tongue blade as the main contact area.
 29,Dorsal,1,This refers to using the back of the tongue as the main contact area.
 30,Bilabial,1,"This refers to using both lips, as in the first sound of the word pie or buy."
-31,Labiodental, Labio-dental,1,"This refers to using the lower lip against the upper front teeth, as in the first sound of five or vie."
+31,Labiodental Labio-dental,1,"This refers to using the lower lip against the upper front teeth, as in the first sound of five or vie."
 32,Dental,1,This refers to touching the tongue tip or blade to the upper front teeth; some speakers produce this with the tongue between the teeth.
 33,Alveolar,1,"This refers to touching the tongue tip or blade to the ridge just behind the upper teeth; try words like tie, die, and sigh."
 34,Retroflex,1,This refers to curling the tongue tip back toward the back of the alveolar ridge; some speakers do this in sounds at the start or end of words like rye or hour.
-35,Postalveolar, post-alveolar, palato-alveolar, alveo-palatal,1,This refers to placing the tongue blade just behind the alveolar ridge; a common example is the first sound in the word shoe.
+35,Postalveolar post-alveolar palato-alveolar alveo-palatal,1,This refers to placing the tongue blade just behind the alveolar ridge; a common example is the first sound in the word shoe.
 36,Palatal,1,"This refers to raising the front of the tongue toward the hard palate, as in the first sound of you."
 37,Velar,1,"This refers to raising the back of the tongue toward the soft palate, as in the last sound of back."
 38,plosive,1,"This refers to a complete closure in the mouth with the soft palate raised, building pressure and releasing it in a burst, as in the first sound of pie, tie, or kye. This is another term for stop sound."
@@ -69,6 +69,7 @@
 70,Stress,1,"This refers to the relative prominence of a syllable, created by greater loudness, clearer segment features such as vowel height and aspiration, and wider pitch movement; in English it can distinguish a noun from a verb in pairs such as an insult and to insult."
 
 71,Intonation,1,This refers to changes in voice pitch linked to the rate of vibration of the vocal folds; these changes can occur independently of stress and can change a statement into a question.
+
 
 
 
